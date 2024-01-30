@@ -1,0 +1,4 @@
+lanchain
+chromadb
+langchain-openai
+tiktoken
